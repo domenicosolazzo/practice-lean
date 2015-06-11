@@ -4,6 +4,7 @@
 - Step 2: Product / Market fit
 - Step 3: Growth
 
+
 - Before Stage 2, a startup must maximize the learning.
 - Pick **bold outcomes**
    - Change the landing page instead of changing the color of a button.
