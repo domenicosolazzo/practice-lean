@@ -25,3 +25,19 @@
 It can be divided in two:
 - Understand the problem -> Define the solution: Problem / Solution Fit
 - Validate Qualitatively(micro) -> Validate Quantitatively(macro): Product / Market Fit
+
+# Customers
+Two types of customers
+- Users: They use your product
+- Customers: They pay for your product
+- Distinguish between users and customers
+- Split customer segments in smaller ones
+- Put all the customer segments in a single Lean Canvas
+- Create a Lean Canvas for each customer segment
+
+# Canvas
+- Sketch the first canvas in less than 15 minutes
+- Identify the riskiest part
+- Go out of the building
+- You can leave some part blank
+
