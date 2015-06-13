@@ -41,3 +41,15 @@ Two types of customers
 - Go out of the building
 - You can leave some part blank
 
+### Canvas Sequence
+- Problem: Find the top 3 problems
+- Customer Segments: Find the target customers
+- UVP: Single, clear, compelling message that states why you are different and worth buying
+- Solution: Top 3 features
+- Channels: Path to customers
+- Revenue Streams: Revenue model, lifetime value, Revenue, Gross Margin
+- Cost structure: Customer Acquisition Costs, Distributing costs, Hosting, People
+- Key metrics: Key activities you measure
+- Unfair advantage: Can't be easily copied
+
+
