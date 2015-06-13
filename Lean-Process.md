@@ -126,3 +126,16 @@ Two types of customers
     - Revenue: Revenue measures the events that get you paid.
     - Referral: Happy customers refer or drive potential prospects into your conversion funnel
 
+# Unfair advantage
+- What it is not: lines of code, passion, "first-mover", etc..
+- A real unfair advantage is something that cannot be easily copied or bought.
+- Examples:
+    - Insider information
+    - The right “expert” endorsements
+    - A dream team
+    - Personal authority
+    - Large network effects
+    - Community
+    - Existing customers
+    - SEO ranking
+
