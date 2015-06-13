@@ -1,0 +1,58 @@
+# Experiment
+- Maximize for Learning, Speed, Focus
+- Identify a single metric
+- Do the smallest thing to learn
+- Formulate a Falsifiable Hypothesis
+   - A falsifiable hypothesis is a statement that can be clearly proven wrong.
+   - It must be specific and testable
+   - Falsifiable Hypothesis = [Specific Repeatable Action] will [Expected Measurable Outcome]
+- You do not need much data at the beginning
+- Five interviews could be enough
+- Correlate results to specific actions
+   - Qualitative: Run the experiments in the same way
+   - Quantitative: Cohort analysis / Split-testing
+- Accessible dashboard
+   - Transparency
+   - Objectivity
+- Communicate progress early and often
+
+# Iteration Meta-Pattern to Risk
+- Maximize learning for unit time
+- Outline the top three starting risks
+   - Problem
+   - Channel
+   - Revenue Stream
+- Stages for tackle each risk
+   - Stage 1: Understand the problem
+   - Stage 2: Define the solution
+      - Demo MVP
+      - Will it work?
+      - Who is the early adopter?
+      - Is pricing working?
+   - Stage 3: Validate qualitatively
+      - Build MVP
+      - Soft launch to the early adopter
+      - Do they get the UVP?
+      - How do you find enough early adopters?
+      - Are you getting paid?
+   - Stage 4: Validate quantitatively
+      - Launch to a larger audience
+      - Have you build something that people want?
+      - How will you reach customers at scale?
+      - Do you have a viable business?
+- By Risk
+   - Product Risk
+      - First make sure you have a problem worth solving.
+      - Define the smallest possible solution (MVP).
+      - Build and validate your MVP at small scale (demonstrate UVP).
+      - Verify it at large scale
+   - Customer Risk
+      - First identify who has the pain.
+      - Narrow this down to early adopters who really want your product now.
+      - Use inbound / outbound channels.
+      - Gradually build/develop scalable inbound channels
+   - Market Risk
+      - Identify competition through existing alternatives and pick a price for your solution.
+      - Test pricing first by measuring what customers say (verbal commitments).
+      - Test pricing by what customers do.
+      - Optimize your cost structure to make the business model work.
