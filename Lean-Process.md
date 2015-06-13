@@ -58,4 +58,15 @@ Two types of customers
 - Identify different user roles
 - Narrow down the customer segment: find the early adopter
 
-
+# Unique Value Proposition (UVP)
+- **Why you are different and worth getting attention**
+- Be different: Derive your UVP from your top one problem
+- Target early adopters
+- Focus on finished story benefits: focus on the benefits after the user has used the product
+    - Feature: Professionally designed templates
+    - Benefit: eye-catching CV that stand out
+    - Story: Landing your dream job
+    - Instant Clarity Headline = End Result Customer Wants + Specific Period of Time + Address the Objections
+- Answer what, who, why
+- Create a high-concept pitch
+- 
