@@ -69,4 +69,60 @@ Two types of customers
     - Instant Clarity Headline = End Result Customer Wants + Specific Period of Time + Address the Objections
 - Answer what, who, why
 - Create a high-concept pitch
-- 
+
+# Solution
+- Sketch out the simplest thing you could build for each problem
+
+# Channels
+- Use any possible channel to get in front of customers
+- Free versus paid
+    - There is no free channel
+    - Free Channels
+       - SEO
+       - Blogging
+       - Social Media
+    - Paid channels
+       - SEM (Google Adwords)
+- Inbound versus outbound
+    - Inbound (Pull messanging)
+        - Blogs
+        - SEO
+        - EBooks
+        - Whitepapers
+        - Webinars
+    - Outbound (Push messaging)
+        - SEM
+        - Print / TV Ads
+        - Trade shows
+        - Cold calling
+        - Interviews
+- Direct versus automated
+    - First sell manually, then automate.
+- Direct versus indirect
+    - Wait about partners
+- Retention versus referral
+    - Need to have a product worth spreading first
+
+# Revenue
+- Charge from day one.
+- You can defer pricing for accelerate initial learning
+- Lowering signup friction
+    - Lack of strong customer commitment
+- Price is part of the product
+- Price defines your customers
+- Being paid is a first form of validation
+
+# Cost structure
+- What will cost to interview people?
+- What will cost to create the first MVP?
+- What is your ongoing burn rate?
+- Use revenue stream / cost structure to calculate the break-even point
+
+# Key metrics
+- Pirate metrics (AARRR)
+    - Acquisition: Turn an unaware visitor into an interested prospect
+    - Activation: The interested customer has his first gratifying user experience
+    - Retention: Engagement with the product
+    - Revenue: Revenue measures the events that get you paid.
+    - Referral: Happy customers refer or drive potential prospects into your conversion funnel
+
