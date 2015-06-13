@@ -52,4 +52,10 @@ Two types of customers
 - Key metrics: Key activities you measure
 - Unfair advantage: Can't be easily copied
 
+# Problems and Customers
+- List the three top problems
+- List the existing alternatives
+- Identify different user roles
+- Narrow down the customer segment: find the early adopter
+
 
