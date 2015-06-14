@@ -48,4 +48,23 @@
     - Document results
        - Document the results
 
+# Results
+    - Keep the same script during the week
+    - End of the week
+       - Summarize the learning
+       - Make adjustments to the script
+    - Look for most favorable demographics
+    - Drop the problem that people **don't need**
+    - Add possible new problem that are ranked as **must-have**
+    - Understand the existing alternatives used from your customer segment
+    - Pay attention to the **key** words that they use when describe their workflow
+    - Identify the path to early adopters
+
+# Exit criteria
+- These are possible exit criteria from the Problem / Solution fit area.
+- You can:
+    - Identify the demographics of an early adopter
+    - Have a must-have problem
+    - Can describe how customers solve the problem today
+
 
