@@ -49,6 +49,7 @@
        - Document the results
 
 # Results
+Analyze the results 
     - Keep the same script during the week
     - End of the week
        - Summarize the learning
