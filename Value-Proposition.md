@@ -31,23 +31,31 @@ As it relates to the **Patients**, there are three key components for a Value Pr
 #### Providers
 As it relates to the **Providers**, there are four key components for a Value Proposition:
 
-1.Utility: Provider-Buyers, like all consumers, will justify a purchase because you solved their particular JTBD.
-2.Reduce Costs: Provider-Buyers will also justify a purchase because your solution reduces their healthcare provisioning costs – either directly or from productivity increases.
-3.Increase Revenue: Provider-Buyers will justify a purchase because your solution increases their revenues by increasing the volume of patients throughout.  This allows for more higher-priced services, or increased customer (patient) loyalty.  Moreover, the new Accountable Care organizations can actually result in increased revenue for a Provider-Buyer as they reduce costs.
-4.Need: Provider-Buyers will also justify a purchase because in the creation of their own Value Proposition an Externality (usually the Government in the form of CMS or state licensing agencies) requires it.
+1.**Utility**: Provider-Buyers, like all consumers, will justify a purchase because you solved their particular JTBD.
+
+2.**Reduce Costs**: Provider-Buyers will also justify a purchase because your solution reduces their healthcare provisioning costs – either directly or from productivity increases.
+
+3.**Increase Revenue**: Provider-Buyers will justify a purchase because your solution increases their revenues by increasing the volume of patients throughout.  This allows for more higher-priced services, or increased customer (patient) loyalty.  Moreover, the new Accountable Care organizations can actually result in increased revenue for a Provider-Buyer as they reduce costs.
+
+4.**Need**: Provider-Buyers will also justify a purchase because in the creation of their own Value Proposition an Externality (usually the Government in the form of CMS or state licensing agencies) requires it.
 As it relates to the Payers, there are four key components for a Value Proposition:
 
 #### Payer-Buyers
-1.Utility: Payer-Buyers, like all consumers and some government and business buyers, will justify a purchase because it solves their particular JTBD.
-2.Reducing Costs: Payer-Buyers, like health insurers and employers, will justify a purchase because your solution reduces their healthcare converge costs – either directly or from productivity increases.
-3.Increasing Revenue: Payer-Buyers, like health insurers or growing third-party partners, will justify a purchase because your solution increases their revenues through volume of sales, a price increase, and/or increased customer loyalty.
-4.Need: Patient-Buyers will also justify a purchase because in the creation of their own Value Proposition an Externality (usually the Government in the form of CMS or state insurance regulators) requires it.
+1.**Utility**: Payer-Buyers, like all consumers and some government and business buyers, will justify a purchase because it solves their particular JTBD.
+
+2.**Reducing Costs**: Payer-Buyers, like health insurers and employers, will justify a purchase because your solution reduces their healthcare converge costs – either directly or from productivity increases.
+
+3.**Increasing Revenue**: Payer-Buyers, like health insurers or growing third-party partners, will justify a purchase because your solution increases their revenues through volume of sales, a price increase, and/or increased customer loyalty.
+
+4.**Need**: Patient-Buyers will also justify a purchase because in the creation of their own Value Proposition an Externality (usually the Government in the form of CMS or state insurance regulators) requires it.
 As it relates to the Purveyors, there are three key components for a Value Proposition:
 
 #### Purveyor-Buyers
-1.Reducing Costs: Purveyor-Buyers, like pharmaceutical and durable medical equipment companies, will justify a purchase because your solution reduces their costs – either directly, though cheaper access to Patients, Providers, or Payers, or from productivity increases.
-2.Increasing Revenue: Purveyor-Buyers, like pharmaceutical and diagnostic companies, will justify a purchase because your solution increases their revenues through volume of sales, a price increase, and/or increased customer loyalty.
-3.Need: Purveyor-Buyers will also justify a purchase because in the creation of their own Value Proposition an Externality (usually the Government in the form of CMS or the FDA) requires it.
+1.**Reducing Costs**: Purveyor-Buyers, like pharmaceutical and durable medical equipment companies, will justify a purchase because your solution reduces their costs – either directly, though cheaper access to Patients, Providers, or Payers, or from productivity increases.
+
+2.**Increasing Revenue**: Purveyor-Buyers, like pharmaceutical and diagnostic companies, will justify a purchase because your solution increases their revenues through volume of sales, a price increase, and/or increased customer loyalty.
+
+3.**Need**: Purveyor-Buyers will also justify a purchase because in the creation of their own Value Proposition an Externality (usually the Government in the form of CMS or the FDA) requires it.
 
 ## Understanding How Your Product Fits into Your Customer’s Value Drivers
 - Do the Benefits provided by your product Features add to your Value Proposition? 
